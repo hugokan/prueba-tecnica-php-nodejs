@@ -2,9 +2,9 @@
 
  Prueba Técnica PHP & Node.js
 
- Front - Svelte.js/Tailwind.css
- Api Node.js - Express
- Api PHP - Flight
+ - Front - Svelte.js/Tailwind.css
+ - Api Node.js - Express
+ - Api PHP - Flight
 
  A continuación agrego imagenes del front y de la interacción con ambas APIs desde Postman
 
